@@ -1,0 +1,9 @@
+[submodule "modules/tortoise-tts"]
+	path = modules/tortoise-tts
+	url = https://github.com/JarodMica/tortoise-tts.git
+[submodule "modules/dlas"]
+	path = modules/dlas
+	url = https://github.com/JarodMica/DL-Art-School.git
+[submodule "modules/tortoise_dataset_tools"]
+	path = modules/tortoise_dataset_tools
+	url = https://github.com/JarodMica/tortoise_dataset_tools.git

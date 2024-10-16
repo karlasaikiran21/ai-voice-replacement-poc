@@ -1,0 +1,17 @@
+openai-whisper
+more-itertools
+ffmpeg-python
+gradio==4.22.0
+music-tag
+voicefixer
+psutil
+phonemizer
+pydantic==2.6.4
+websockets
+beartype==0.15.0
+pykakasi
+rotary-embedding-torch==0.4.0
+transformers==4.29.2
+omegaconf==2.3
+pysrt
+librosa==0.9.1
